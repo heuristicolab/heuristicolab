@@ -18,6 +18,10 @@
 [![Glama Grade A](https://glama.ai/mcp/servers/heuristicolab/ctxfw/badge)](https://glama.ai/mcp/servers/heuristicolab/ctxfw)
 [![Sovereign Vault](https://img.shields.io/badge/DANTE_VAULT-52_CERTIFIED_ASSETS-10b981?style=for-the-badge)](https://heuristicolab.com/vault)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heuristicolab/ctxfw/main/logos/ctxfw_v411_live_demo.svg" alt="CTXFW v4.1.1 Live Terminal Demo — SARA Prompt Injection Gate (0.38ms), AST Context Pruner (-66.1%) & M2M Sovereign Vault" width="100%">
+</p>
+
 </div>
 
 ---
